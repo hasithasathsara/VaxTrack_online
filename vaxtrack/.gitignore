@@ -32,6 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-###add the db password protections
 
-application.properties
